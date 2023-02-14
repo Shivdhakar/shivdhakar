@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=shivdhakar&label=Profile%20views&color=0e75b6&style=flat" alt="shivdhakar" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-%40shivdhakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivdhakar/)](https://www.linkedin.com/in/shivdhakar/) 
-[![Twitter Badge](https://img.shields.io/badge/-%40shivdhakar-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivdhakar)](https://twitter.com/shivdhakar) 
-[![Instagram Badge](https://img.shields.io/badge/-%40shivdhakar-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shivdhakar/)](https://www.instagram.com/shivdhakar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-%40shivdhakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-dhakar-bb08b6248/)](https://www.linkedin.com/in/shiv-dhakar-bb08b6248/) 
+
+[![Instagram Badge](https://img.shields.io/badge/-%40shivdhakar-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shi_va_2525/)](https://www.instagram.com/shi_va_2525/) 
 
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
@@ -27,21 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/kubernetes.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/rabbitmq-282296.png"></code>
-<code><img height="20" src="https://codersera.com/blog/wp-content/uploads/2019/02/nginx-logo.png"></code>
 
 ---
 
