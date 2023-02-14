@@ -1,12 +1,11 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Ankit Ojha](https://ankitojha.netlify.app) [cfc07]
-### A passionate Programmer and Youtuber
+## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Shiva]
+### A passionate Programmer from India
 <img src="https://komarev.com/ghpvc/?username=shivdhakar&label=Profile%20views&color=0e75b6&style=flat" alt="shivdhakar" />
 
-### Portfolio [Ankit Ojha](https://ankitojha.netlify.app)
 
-[![Linkedin Badge](https://img.shields.io/badge/-%40shivdhakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivdhakar/)](https://www.linkedin.com/in/ankitojha07/) 
-[![Twitter Badge](https://img.shields.io/badge/-%40shivdhakar-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ankitojha_07)](https://twitter.com/ankitojha_07) 
-[![Instagram Badge](https://img.shields.io/badge/-%40shivdhakar-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ankitojha_07/)](https://www.instagram.com/ankitojha_07/) 
+[![Linkedin Badge](https://img.shields.io/badge/-%40shivdhakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivdhakar/)](https://www.linkedin.com/in/shivdhakar/) 
+[![Twitter Badge](https://img.shields.io/badge/-%40shivdhakar-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivdhakar)](https://twitter.com/shivdhakar) 
+[![Instagram Badge](https://img.shields.io/badge/-%40shivdhakar-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/shivdhakar/)](https://www.instagram.com/shivdhakar/) 
 
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
@@ -46,11 +45,11 @@
 
 ---
 
-<a href="https://github.com/ankitojha07">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Ankit's github stats"/>
+<a href="https://github.com/shivdhakar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivdhakar&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="shivdhakar's github stats"/>
 </a>
-<a href="https://github.com/ankitojha07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=light&layout=compact&langs_count=10&hide_langs_below=1" />
+<a href="https://github.com/shivdhakar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivdhakar&theme=light&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
 
 
